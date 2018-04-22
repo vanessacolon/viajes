@@ -1,0 +1,58 @@
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 18px;
+    color: #2F4858;
+    line-height: 1.5;
+    padding: 0;
+    background-color: #FCF7F8;
+
+}
+
+
+.button {
+    background-color: #E98A15;
+    border: none;
+    color: white;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    animation-direction: normal;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+
+ }   
+
+.chart-wrapper{
+	font-family: 'Roboto', sans-serif;
+	max-width:100%;
+	text-align: left;
+	padding-left: 15vw;
+	
+
+}
+
+.barchart-row{
+	font-family: 'Roboto', sans-serif;
+	margin:10px 0;
+}
+
+.label{
+	font-family: 'Roboto', sans-serif;
+	/*width:500in;*/
+	display: block;
+}
+
+.bar{
+	font-family: 'Roboto', sans-serif;
+	display: inline-block;
+	height:20px;
+	background: #33658A;
+}
+
+.container {
+	text-align: center;
+}
